@@ -9,28 +9,30 @@
 		
 					Main Menu
 			
-						1. Enter your details 
+						1. Prediction
 						2. Give Feedback
 						3. Help
 						4. About US
+						5. Credit
 						
 					
 				----------------------------------
-					Input - 1
+
 		-----------------------------------------------------------
 										- Developed by TechNostalgia			
 			
 	1.1
 	
 	
+		                        Prediction Form
 		------------------------------------------------------------
 		
-		
-						Enter Details
 						
-			Name : 		
-			Year of Engineering : 
-
+			Enter size (in MBs):  		
+			Enter price (in ₹) : 
+			
+			Enter Rating (out of 5.0): 
+			Enter category :
 			
 			
 						
@@ -49,16 +51,12 @@
 						improving our product.
 
 			1. Enter Your Name : 
-			2. Choose Year :
-					2.1  First Year
-					2.2  Second Year
-					2.3	 Third Year
-					2.4	 Four Year
-					
-			
+			2. Enter Email : 
+		
+		
 			Enter Your Experience : 
 			Comment : 
-			
+			Rating : 
 			
 		-------------------------------------------------------------
 										- Developed by TechNostalgia
@@ -70,26 +68,31 @@
 	3.1
 	
 	
-		------------------------------------------------------------
+		----------------------------------------------------------------------------
 		
-		
-						    Help
+						                 Help
 			
-			This is help section here you will find Details of
-					  Functions and what they do.
+			      This is help section here you will find Details of
+					        Functions and what they do.
 
-				Happy Journey 
-			
-			
-			A : This does this
-			B : This does this
-			
-			
-									
-					-------------------------------
-					  Press any key to return 
+			   Prediction Feature :                                                   
+			-> This feature based upon user's input predicts number of downloads        
+			   for their applications.                                                  
+			        - On platform such as - Google playstore                        
+
+			   FeedBack Feature :                                                    
+			-> This feature take feedback from the user.                             
+                                                                             
+			    About US Feature :                                                     
+			-> This feature give information of creaters of the application.           
+                                                                                
+			    Credit Feature:                                                       
+			-> This feature give credits and links of important information.            
+    					
+					        -------------------------------
+					             Press Enter to return  
 						
-		-------------------------------------------------------------
+		-----------------------------------------------------------------------------
 										- Developed by TechNostalgia
 										
 										
@@ -112,7 +115,7 @@
 					2. Divyansh Gautam 	(Innovator and testor)
 						LinkedIN -  linkedin.com/DG
 						
-					3. Jigyasu Deo 		(Backend Development)
+					3. Jigyasu Deo 		(Backend and Development)
 						LinkedIN -  linkedin.com/JD
 			
 					-------------------------------
