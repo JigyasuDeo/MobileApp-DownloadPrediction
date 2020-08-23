@@ -33,3 +33,15 @@ Softwares :
 # Dataset
 	https://www.kaggle.com/gauthamp10/google-playstore-apps?select=Google-Playstore-Full.csv
  
+ # Graphs
+1. Pair plot 
+
+![](Graphs/Images/1.PNG)
+
+2. Joint Plot
+
+![](Graphs/Images/2.PNG)
+
+3.  Heat Map
+
+![](Graphs/Images/3.PNG)
