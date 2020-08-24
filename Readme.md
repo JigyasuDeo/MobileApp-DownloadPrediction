@@ -25,7 +25,7 @@ Softwares :
      . LinkedIN - https://www.linkedin.com/in/dhruv73
 
 2. Jigyasu Deo  
-     . LinkedIN - https://www.linkedin.com/in/jigyasu-d-b5861011a
+     . LinkedIN - https://www.linkedin.com/in/jigyasu19/
  
 3. Divyansh Gautam  
      . LinkedIN -https://www.linkedin.com/in/divyansh-g-b00a191a2
